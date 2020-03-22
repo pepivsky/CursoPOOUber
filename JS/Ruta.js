@@ -1,7 +1,11 @@
-function Ruta() {
+class Ruta {
 
-    this.id;
-    this.start;
-    this.end;
+    constructor(){
+        this.id;
+        this.start;
+        this.end;
+    }
+
+    
     
 }
